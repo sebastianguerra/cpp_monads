@@ -4,6 +4,7 @@
 using namespace std;
 
 #include "maybe/maybe.hpp"
+#include "logMonad/logs.hpp"
 
 
 Maybe<int> addOne(int a){
